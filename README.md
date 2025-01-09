@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Abdullah Al Amin Khan</h1>
-<h3 align="center">MERN Stack Developer, 🚀 Let’s Build Something Incredible Together! 🌟</h3>
+<h3 align="center">MERN Stack Developer</h3>
 <p align="center">
   Passionate about building scalable, high-performance web applications 🌍💻. 
   I specialize in the MERN stack and love solving real-world problems with clean, efficient code.
@@ -32,6 +32,7 @@
 </p>
 
 ---
+<h4>🚀 Let’s Build Something Incredible Together! 🌟</h4>
 <p>I love creating user-friendly applications that positively impact the digital world. With a background in Finance, I bring a unique perspective to tech, bridging the gap between business and technology. 📊 My focus is on delivering innovative solutions that make a difference.
   
 I stay up-to-date with the latest trends in web development and continuously seek ways to improve my skills. Let’s join hands to build something amazing together — dedication, positivity, and innovation are the core pillars of my work! 🌱✨
