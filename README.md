@@ -99,7 +99,6 @@ I stay up-to-date with the latest trends in web development and continuously see
 </div>
 
 ---
-
 <h2 align="center">🤝 Connect with Me</h2>
 <h3 align="center">
   <a href="https://linkedin.com/in/md-abdullah-al-amin-khan" target="_blank">
