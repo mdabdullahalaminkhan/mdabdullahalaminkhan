@@ -32,6 +32,10 @@
 </p>
 
 ---
+<p>I love creating user-friendly applications that positively impact the digital world. With a background in Finance, I bring a unique perspective to tech, bridging the gap between business and technology. 📊 My focus is on delivering innovative solutions that make a difference.
+  
+I stay up-to-date with the latest trends in web development and continuously seek ways to improve my skills. Let’s join hands to build something amazing together — dedication, positivity, and innovation are the core pillars of my work! 🌱✨
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
