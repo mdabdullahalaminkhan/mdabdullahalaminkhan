@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" style="width: 100%; height: auto;" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" style="width: 100%; height: auto;" />
 <h1 align="center">Hi 👋, I'm Md Abdullah Al Amin Khan</h1>
 <h3 align="center">MERN Stack Developer</h3>
 <p align="center">
