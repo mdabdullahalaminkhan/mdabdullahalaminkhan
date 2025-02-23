@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Abdullah Al Amin Khan</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 <p align="center">
   Passionate about building scalable, high-performance web applications 🌍💻. 
   I specialize in the MERN stack and love solving real-world problems with clean, efficient code.
