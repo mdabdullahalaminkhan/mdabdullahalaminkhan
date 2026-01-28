@@ -22,10 +22,10 @@
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer focused on **clean, maintainable code**
-- 🌱 Always learning and improving through **real-world projects**
-- 🤝 Actively contributing to **open-source**
-- 🧠 Strong believer in **quality over quantity**
+- 🌱 Continuously learning by building and improving real-world projects  
+- 🤝 Contributing to open-source and learning from the developer community  
+- 🧠 Prefer quality and clarity over rushing features  
+- ⚡ Work best in focused sessions, especially when solving complex problems 
 - 🌙 Enjoy late-night deep-focus coding sessions
 
 ---
@@ -59,16 +59,17 @@
 
 ## 📊 Language Usage
 
-- **JavaScript** ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 70%
-- **Python** ▓▓▓▓▓▓▓▓▓▓ 30%
+| Language   | Proficiency |
+|------------|-------------|
+| JavaScript | ████████████████████ 70% |
+| Python     | ██████████ 30% |
 
 ---
 
-## 🤝 Open Source Philosophy
+## 🤝 Open Source Work
 
-```text
-🎯 Focus: Quality over quantity
-📚 Learn by reading real code
-🔁 Improve through feedback
-🤝 Respect maintainers and contributors
-🔒 Be reliable and consistent
+- 🎯 Focus on doing things properly, not taking shortcuts  
+- 📚 Learn by reading and understanding real, production code  
+- 🔁 Improve through code reviews and constructive feedback  
+- 🤝 Respect maintainers, contributors, and community guidelines  
+- 🔒 Aim to be consistent, reliable, and responsible  
