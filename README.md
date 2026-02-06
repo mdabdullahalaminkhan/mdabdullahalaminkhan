@@ -15,9 +15,8 @@ Improving open-source projects by strengthening documentation, code quality, and
 
 **Tech Stack:**
 
-`JavaScript` · `TypeScript` · `Python` · `Node.js` · `React` · `Redux` · `Next.js` · `Express` ·`MongoDB` · 
-
-`Mongoose` · `MongoDB Atlas` · `MySQL` · `Django` · `Docker` · `GitHub Actions (CI/CD)` · `Postman` · `CLI`
+`JavaScript` · `TypeScript` · `Python` · `Node.js` · `React` · `Redux` · `Next.js` · `Express` ·  
+`MongoDB` · `Mongoose` · `MongoDB Atlas` · `MySQL` · `Django` · `Docker` · `GitHub Actions` · `Postman` · `CLI`
 
 &nbsp;
 
