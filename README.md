@@ -1,21 +1,26 @@
 # Software Developer | Open-Source Contributor 👨‍💻
 
-Focused on contributing to open-source projects through careful, incremental improvements.
+Improving open-source projects by strengthening documentation, code quality, and foundational fixes.
 
-**Open to:**
+**Open to contributions involving:**
 
 - Documentation fixes and clarity improvements
-- README cleanup and structure improvements
+- README cleanup and structural improvements
 - Fixing typos, grammar issues, and broken links
-- Clarifying unclear or misleading comments
-- Adding missing documentation sections
-- Minor refactors focused on readability
-- Simple logic corrections after understanding context
-- Adding basic validations
-- Manual and time-consuming cleanup tasks
-- Bug reports and issue triage
+- Improving unclear or misleading comments
+- Adding missing or incomplete documentation
+- Small refactors focused on readability and maintainability
+- Minor bug fixes after understanding full context
+- Issue triage and bug reports
 
-**Contact:**
+**Tech Stack:**
 
-- Email: <mdabdullahalaminkhan@gmail.com>
-- WhatsApp: +8801784296781
+`JavaScript` · `TypeScript` · `Python` · `Node.js` · `React` · `Redux` · `Next.js` · `Express` ·`MongoDB` · 
+
+`Mongoose` · `MongoDB Atlas` · `MySQL` · `Django` · `Docker` · `GitHub Actions (CI/CD)` · `Postman` · `CLI`
+
+&nbsp;
+
+💬 **Feel free to connect for collaboration or open-source discussions.**
+
+📧 Email: <mdabdullahalaminkhan@gmail.com>
