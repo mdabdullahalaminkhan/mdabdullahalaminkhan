@@ -1,4 +1,4 @@
-# Software Developer | Open-Source Contributor 👨‍💻
+# Software Developer ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-blue?logo=github)
 
 Improving open-source projects by strengthening documentation, code quality, and foundational fixes.
 
