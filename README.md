@@ -15,7 +15,7 @@ Improving open-source projects by strengthening documentation, code quality, and
 
 **Tech Stack:**
 
-`JavaScript` · `TypeScript` · `Python` · `Node.js` · `React` · `Redux` · `Next.js` · `Express` ·  
-`MongoDB` · `Mongoose` · `MongoDB Atlas` · `MySQL` · `Django` · `Docker` · `GitHub Actions` · `Postman` · `CLI`
+`JavaScript` · `TypeScript` · `Python` · `Node.js` · `React` · `Redux` · `Next.js` · `Express` · `Django` ·  
+`MongoDB` · `Mongoose` · `MongoDB Atlas` · `MySQL` · `Docker` · `GitHub Actions` · `Postman` · `CLI`
 
 💬 **Feel free to connect for collaboration or open-source discussions:** 📧 Email: <mdabdullahalaminkhan@gmail.com>
